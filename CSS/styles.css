@@ -3,6 +3,10 @@ nav{
     
 }
 
+#logo{
+  background-image: url(../img/n.png);
+  
+}
 .navbar-brand img{
     width: 30%;
 }
